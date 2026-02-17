@@ -1,0 +1,6 @@
+1;Lucía;Pérez;600111001;lucia.perez@cafeteria.com;Calle Sol 1, Ronda;1450;Camarero
+2;Manuel;Gómez;600111002;manuel.gomez@cafeteria.com;Calle Luna 2, Ronda;1450;Camarero
+3;Paula;Ruiz;600111003;paula.ruiz@cafeteria.com;Calle Estrella 3, Ronda;1600;Camarero
+4;Antonio;López;600111004;antonio.lopez@cafeteria.com;Calle Granada 4, Ronda;1950;Encargado
+5;Marta;Hidalgo;600111007;marta.hidalgo@cafeteria.com;Calle Sevilla 5, Ronda;2200;Jefe
+6;Juanito;Chocolatero;686456789;juan.chocolatero@cafeteria.com;Calle Sevilla 5, Ronda;1700;Encargado

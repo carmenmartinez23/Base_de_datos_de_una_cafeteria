@@ -1,0 +1,16 @@
+11;Brownie;Postre;2.5;30
+3;Capuchino;Bebida;2.0;80
+16;Andaluza;Bollería;0.30;30
+7;Té chai;Bebida;2.1;60
+1;Café solo;Bebida;1.5;100
+14;Zumo naranj;Bebida;2.0;35
+9;Napolitana;Bollería;1.8;40
+5;Café americano;Bebida;1.7;90
+12;Tarta de zanahoria;Postre;3.0;25
+8;Croissant;Bollería;1.4;50
+15;Agua mineral;Bebida;1.2;100
+4;Latte;Bebida;2.2;80
+10;Magdalena;Bollería;1.2;50
+2;Café con leche;Bebida;1.8;100
+13;Cookie chocolate;Postre;1.5;40
+6;Té verde;Bebida;1.6;60

@@ -1,0 +1,20 @@
+1;María;García López;612345678;maria.garcia@gmail.com;Calle Real 15, Ronda
+2;Carlos;Martínez Ruiz;623456789;carlos.martinez@hotmail.com;Avda Andalucía 42, Ronda
+3;Ana;Fernández Silva;634567890;ana.fernandez@outlook.com;Plaza España 8, Ronda
+4;José;Rodríguez Pérez;745678901;jose.rodriguez@yahoo.es;Calle Armiñán 23, Ronda
+5;Laura;Sánchez Moreno;656789012;laura.sanchez@gmail.com;Calle Jerez 34, Ronda
+6;David;Jiménez Torres;667890123;david.jimenez@telefonica.com;Paseo Blas Infante 56, Ronda
+7;Isabel;Romero Díaz;678901234;isabel.romero@icloud.es;Calle Sevilla 12, Ronda
+8;Miguel;Navarro Campo;789012345;miguel.navarro@correo.es;Avda Victoria 78, Ronda
+9;Carmen;Muñoz Ortiz;790123456;carmen.munoz@gmail.es;Calle Virgen de la Paz 5, Ronda
+10;Francisco;Álvarez Ramos;601234567;francisco.alvarez@hotmail.es;Calle Molino 19, Ronda
+11;Sofía;Castro Vargas;612345987;sofia.castro@outlook.es;Plaza Toros 3, Ronda
+12;Antonio;Rubio Guerrero;623456098;antonio.rubio@yahoo.com;Calle Carmen Abela 27, Ronda
+13;Elena;Morales Gil;734567109;elena.morales@gmail.com;Avda Málaga 61, Ronda
+14;Javier;Serrano Medina;645678210;javier.serrano@correo.com;Calle Espinel 45, Ronda
+15;Raquel;Vega Herrera;656789321;raquel.vega@icloud.com;Calle Los Remedios 88, Ronda
+16;Alberto;Jiménez Soto;667890432;alberto.jimenez@gmail.com;Calle Laurel 14, Ronda
+17;Patricia;Ruiz Delgado;678901543;patricia.ruiz@hotmail.com;Avenida Poeta Rilke 29, Ronda
+18;Manuel;Carmona Flores;646923467;manuel.carmona@gmail.es;Avenida Málaga 68, Ronda
+19;Lucía;Molina Reyes;690123765;lucia.molina@outlook.es;Plaza Carmen Abela 11, Ronda
+20;Sergio;Ortega Santos;659812365;sergio.ortega@gmail.com;Calle Virgen de los Dolores 36, Ronda
